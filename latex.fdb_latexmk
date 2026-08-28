@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1787890605.53047 "c:/Users/Milton/Desktop/latex/latex.tex" "latex.pdf" "latex" 1787890606.12396 0
+["pdflatex"] 1787890734.48415 "c:/Users/Milton/Desktop/latex/latex.tex" "latex.pdf" "latex" 1787890734.93579 0
   "C:/Users/Milton/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1787889468 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Milton/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1787889204 13368092 ba32550df6c4e870047295a3174fbcc9 ""
   "C:/Users/Milton/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -34,10 +34,10 @@
   "C:/Users/Milton/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1780057299 8448 f7d8bfe7b7a3986fbf9022b21b7800cc ""
   "C:/Users/Milton/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1785671204 31015 cdb645736cb990d8b36a7f302ad8ef36 ""
   "c:/Users/Milton/Desktop/latex/latex.tex" 1787889516 244 17a3a082666cbb40457810ed44f0081e ""
-  "latex.aux" 1787890606 53 9668880eb8f0f7a74510254460397b0c "pdflatex"
+  "latex.aux" 1787890734 53 9668880eb8f0f7a74510254460397b0c "pdflatex"
   "latex.tex" 1787889516 244 17a3a082666cbb40457810ed44f0081e ""
-  "section.aux" 1787890606 593 b4462463370dac8aecdc0c2f4320f6f1 "pdflatex"
-  "section.tex" 1787890604 121 f093f987919834fb0ac88ca54d76a3fd ""
+  "section.aux" 1787890734 593 b4462463370dac8aecdc0c2f4320f6f1 "pdflatex"
+  "section.tex" 1787890733 133 91394c4c738ca1935d9e1d649e110826 ""
   (generated)
   "latex.aux"
   "latex.log"
